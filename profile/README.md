@@ -11,7 +11,7 @@ Welcome to the KittenGames, a simple but effective customizable game website.
 
 ## Getting Started
 
-To start playing games, simply visit our [website](https://kittengames.org) and browse the available titles. Want to add your own games or load custom libraries? You can do that too!
+To start playing games, simply visit our [website](https://kittengames.github.io) and browse the available titles. Want to add your own games or load custom libraries? You can do that too!
 
 ## Contributing
 
@@ -23,4 +23,4 @@ For inquiries, suggestions, or feedback, please dm me at [my discord](https://di
 
 ---
 
-**Ready to play? Visit [KittenGames](https://kittengames.org) and start your gaming journey today!**
+**Ready to play? Visit [KittenGames](https://kittengames.github.io) and start your gaming journey today!**
